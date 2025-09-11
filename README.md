@@ -55,6 +55,7 @@
 - **Telegram**: [Мой профиль](https://t.me/predatoruslan) 💼
 - **Mail**: [me@minachov.ru](mailto:me@minachov.ru) ✉️
 - **Portfolio**: [Сайт или Notion](https://yourportfolio.com) 🌐
+- - **Phone**: +79122953570 📱
 
 **Статус занятости**: Открыт для предложений! 🚀 Ищу роль Data Scientist в активной команде. Напишите мне: [me@minachov.ru](mailto:me@minachov.ru)
 
